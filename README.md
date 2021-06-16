@@ -12,4 +12,4 @@ Note: Code written above consist of my native languages i.e. Gujarati, Hindi and
 
 # Reference 
 
-Special thanks to Dr.Jaydeep Raula under which guidance are these code are written.
+Special thanks to Dr.Jaydeep Raula for his guidance of these above code and explaination.
